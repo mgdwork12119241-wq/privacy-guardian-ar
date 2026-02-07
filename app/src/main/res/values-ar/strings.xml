@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: GPL-3.0-or-later -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:tools="http://schemas.android.com/tools">
+    <string name="_lang_tag" translatable="false">ar</string>
+    <string name="app_name">حارس الخصوصية</string>
+    <string name="launch">تشغيل</string>
+    <string name="activities">الأنشطة</string>
+    <string name="require_no_permission">لا يوجد إذن مطلوب</string>
+    <string name="permissions">يستخدم الأذونات</string>
+    <string name="uninstall">إلغاء التثبيت</string>
+    <string name="search">بحث</string>
+    <string name="app_info">معلومات التطبيق</string>
+    <string name="about">حول</string>
+    <string name="loading">جار التحميل…</string>
+    <string name="error">خطأ</string>
+    <string name="manifest">البيان</string>
+    <string name="service">الخدمات</string>
+    <string name="receivers">المستقبلات</string>
+    <string name="providers">الموفرون</string>
+    <string name="refresh">تحديث</string>
+    <string name="force_stop">إيقاف إجباري</string>
+    <string name="enable">تفعيل</string>
+    <string name="disable">تعطيل</string>
+    <string name="pro_activation_title">تفعيل النسخة الاحترافية (Pro)</string>
+    <string name="pro_activation_msg">للحصول على النسخة المدفوعة وفتح التحليل الشامل، تواصل عبر Telegram: Mhsenmhsen1</string>
+    <string name="enter_activation_code">أدخل كود التفعيل</string>
+    <string name="activate">تفعيل</string>
+    <string name="invalid_code">كود التفعيل غير صحيح</string>
+    <string name="pro_activated_success">تم تفعيل النسخة الاحترافية بنجاح!</string>
+    <string name="pro_features_locked">هذه الميزة متاحة فقط في النسخة الاحترافية</string>
+    <string name="contact_owner">تواصل مع المطور</string>
+    <string name="telegram_handle">Telegram: Mhsenmhsen1</string>
+    <string name="credits_message">تم تطوير هذا التطبيق بواسطة محسن (Mhsenmhsen1) بناءً على مشروع مفتوح المصدر.</string>
+</resources>
